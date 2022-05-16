@@ -2,7 +2,7 @@
 
 ### I'm Douglas Almeida
 - I live in 🇧🇷, northeast 😎🌅
-- I have been working on Zup Innovation as Software Developer, more exactly as Front end using ReactJS, Styled components, Redux and Redux saga and TDD With Jest and React Library 💻
+- I have been working on iFood as Software Developer, more exactly as Front end using ReactJS, Styled components, Redux and Redux saga and TDD With Jest and React Library 💻
 - I have been learning more about TypeScript/Javascript
 
 ## Connect with me:
